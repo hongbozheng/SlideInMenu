@@ -1,2 +1,2 @@
 # SlideInMenu
-![gif]https://github.com/hongbozheng/SlideInMenu/slideInMenu.gif
+![git](https://github.com/hongbozheng/SlideInMenu/blob/master/slideInMenu.gif)
